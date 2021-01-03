@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: bug
+assignees: varunp2k
+
+---
+
 This template is **ONLY** to be used for reporting bugs in the code.
 
 <!--- Provide a summary of the issue in the Title-->
